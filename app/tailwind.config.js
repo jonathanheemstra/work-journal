@@ -251,6 +251,7 @@ module.exports = {
     fontFamily: {
       sans: [
         '"Josefin Sans"',
+        '"Open Sans"',
         'system-ui',
         '-apple-system',
         'BlinkMacSystemFont',
