@@ -251,6 +251,7 @@ module.exports = {
     fontFamily: {
       sans: [
         '"Josefin Sans"',
+        '"Open Sans"',
         'system-ui',
         '-apple-system',
         'BlinkMacSystemFont',
@@ -678,7 +679,7 @@ module.exports = {
     appearance: ['responsive'],
     backgroundAttachment: ['responsive'],
     backgroundClip: ['responsive'],
-    backgroundColor: ['responsive', 'hover', 'focus'],
+    backgroundColor: ['responsive', 'hover', 'active', 'focus'],
     backgroundImage: ['responsive'],
     gradientColorStops: ['responsive', 'hover', 'focus'],
     backgroundOpacity: ['responsive', 'hover', 'focus'],
